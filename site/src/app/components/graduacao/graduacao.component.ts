@@ -18,7 +18,7 @@ SwiperCore.use([Pagination]);
 <body>
   
 
-  <div class="animate__animated animate__fadeInUp">
+  <div class=" row animate__animated animate__fadeInUp">
     <sub>cursos de</sub>
     <h2>
       Graduação
