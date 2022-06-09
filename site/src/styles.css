@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0px auto;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+    
+
+}
+
+
+
+.container {
+  
+    padding-left: 0px;
+    padding-right: 0px;
+   }
+
+sub{
+
+    font-weight: 600;
+    color: #dad624;
+}
+
+h5 {
+    font-size: larger;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #147F9C;
+}
+
+h2 {
+    font-size: xx-large;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #147F9C;
+}
+
+
+p {
+    font-size: small;
+    padding-right: 48px;
+    color: #5e5e5e;
+    font-weight: 500;
+}
+
+
+
+.btn-primary {
+    background-color: #ff9100;
+    border: 1px solid #ff9100;
+    margin: 20px 0px 4px 0px;
+    border-radius: 10px;
+    padding: 8px 16px;
+    font-weight: 600;
+
+    
+}
+
+.bnt-baixar{
+    padding-left: -8px;
+}
+
+.btn-secondary {
+
+    margin: 4px 16px 8px 16px;
+    border-radius: 10px;
+    padding: 8px 16px;
+    background-color: #a9a9a9;
+    border: 1px solid #a9a9a9;
+    color: #5e5e5e;
+    font-weight: 600;
+}
+.btn.btn-secondary {
+    margin-left: 0px;
+    margin-right: 0px;
+   }
+
+   .btn.btn-secondary.row {
+    margin: 16px;
+   }
+
+
+
+.graduacao-c {
+    margin: 80px 0px;
+    padding: 40px 40px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px 40px;
+    background-color: #147F9C;
+    color: white;
+    -webkit-box-shadow: 11px 15px 40px 1px rgba(0,0,0,0.3);
+  -moz-box-shadow: 11px 15px 40px 1px rgba(0,0,0,0.3);
+  box-shadow: 11px 15px 40px 1px rgba(0,0,0,0.3);
+}
+
+.pos-graduacao-c {
+    margin: 80px 0px;
+    padding: 40px 40px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px 40px;
+    background-color: #ff9100;
+    color: white;
+    -webkit-box-shadow: 11px 15px 40px 1px rgba(0,0,0,0.3);
+  -moz-box-shadow: 11px 15px 40px 1px rgba(0,0,0,0.3);
+  box-shadow: 11px 15px 40px 1px rgba(0,0,0,0.3);
+}
+
+
+ul{
+	list-style-type: none;
+    font-weight: 500;
+    padding-left: 0px;
+    padding-right: 0px;
+	}
+
+    span{
+       font-weight: bolder;
+       color: #07242c;
+       
+    }
+
+    .modal {
+        border-radius:30px;
+  
+        margin: 0px auto;
+    }
+
+    .fade{
+       
+    }
+
+  
+    .btn-secondary {
+        margin: 4px 16px 4px 16px;
+}
+
+header{
+ 
+
+}
+
+footer{
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+    margin-top: 80px;
+    z-index: 20;
+}
+
+.footer{
+    margin: 4px 0px;
+}
